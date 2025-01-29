@@ -1,7 +1,7 @@
 # mlops-workshop
 Repository for educational workshop on building and deploying API endpoints for ML models to AWS
 
-# Onboarding - I used Chat to help me figure out how to do this on through github rather than my IDE
+# Onboarding - I used Chat to help me figure out how to do this on through github rather than my IDE. Still encountered challenges.
 
 1. To begin the workshop, fork this repo to your github profile (keep the name as mlops-workshop)
 2. Let me know when you have forked the repo. I will run the `infra_setup/create_pipeline_service_roles.sh` and `infra_setup/create_pipelines.sh` on your username and github repo profile name
